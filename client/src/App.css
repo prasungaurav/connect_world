@@ -4,6 +4,21 @@
 }
 .App {
 }
+.signup{
+    justify-items: center;
+    
+}
+.signup1{
+  justify-items: center;
+  width: 20rem;
+  border: 0.5rem solid black;
+  height: 20rem;
+
+}
+.signup input{
+ width: 12rem;
+ 
+}
 
 
 
